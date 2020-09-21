@@ -50572,7 +50572,7 @@ p=q.d
 P.fC(p.a.a)
 o=t.X
 s=2
-return P.a4(G.ahj("http://127.0.0.1:5000/predict",C.aP.ft(P.ax(["text",p.a.a],o,o))),$async$qq)
+return P.a4(G.ahj("http://98e7772ca55e.ngrok.io/predict",C.aP.ft(P.ax(["text",p.a.a],o,o))),$async$qq)
 case 2:n=b
 m=t.el.a(C.aP.df(0,B.agE(U.aeA(n.e).c.a.h(0,"charset")).df(0,n.x)))
 P.fC(m)
@@ -50597,7 +50597,7 @@ p=p?f*0.02:e*1.1
 p=M.cV(i,L.dc(m,i,i,i,i,i,i,i,A.cO(i,i,C.n4.h(0,400),i,i,i,i,i,i,i,i,p,i,C.bH,i,i,!0,i,i,i,i,i,i),C.bB,i,i),i,i,i,i,i,new V.ar(0,0,0,10),i)
 m=K.iN(10)
 l=f*0.05
-k=j.y?new G.rI(C.n,20,i):L.dc("Generate a sonnet!",i,i,i,i,i,i,i,i,i,i,i)
+k=j.y?new G.rI(C.n,20,i):L.dc("Generate sonnet!",i,i,i,i,i,i,i,i,i,i,i)
 m=T.p1(T.wN(H.d([s,r,q,o,new T.en(new V.ar(10,0,10,10),n,i),p,N.a03(new T.en(new V.ar(10,l,10,l),k,i),new P.D(h),new Y.VP(j),i,new X.c1(m,C.o)),T.jl(i,f*0.01,i)],t.d)),i,i)
 s=m}return M.cV(i,s,i,i,new S.d6(i,new X.x5(new L.lu("images/AdaBG.png",i,i),new H.xv(d,C.lt,i,1),C.p9),i,c,i,i,C.T),f*0.9,i,i,g*0.95)}}
 Y.VS.prototype={
